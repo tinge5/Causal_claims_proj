@@ -17,3 +17,6 @@
   On confirm search using PubMed Tools to back up the approval or disapproval 
 
   Setup tools for our dataset analyzation
+
+## Next Steps:
+Turner: Find a way to connect to PubMed Server/create the code to do so and the bridge. Work on agent loop.
